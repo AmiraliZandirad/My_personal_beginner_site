@@ -1,1 +1,4 @@
-# My_personal_primary_site
+# My personal beginner site 🙃
+A very simple code for beginners to get started ⭐
+
+
